@@ -1,0 +1,4 @@
+1. add #include <stdio.h> temporily
+2. compile
+3. delete #include <stdio.h>
+4. ./binary < filename.c
